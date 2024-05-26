@@ -1,0 +1,78 @@
+# Dependency directories
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+
+# Production build folder
+build/
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug logs from npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.lock
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# Next.js specific ignore files
+.next/cache
+
+# vercel specific
+.vercel
+
+# Optional markdownlint temporary files
+*.md.bak
+
+# Optional log files
+*.log
+
+# Optional sqlite database files
+*.sqlite
+
+# Storybook files
+storybook-static/
+
+# Optional screenshots captured by e2e tests
+*.png
+
+# Jest coverage reports
+coverage/
